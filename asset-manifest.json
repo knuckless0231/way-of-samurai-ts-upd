@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/way-of-samurai-ts-upd/static/css/main.a7c90dd8.css",
+    "main.js": "/way-of-samurai-ts-upd/static/js/main.2d09618e.js",
+    "static/media/Infinity-1.1s-264px.gif": "/way-of-samurai-ts-upd/static/media/Infinity-1.1s-264px.5f915d5a9a422ca051ff.gif",
+    "static/media/logo.svg": "/way-of-samurai-ts-upd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/way-of-samurai-ts-upd/index.html",
+    "main.a7c90dd8.css.map": "/way-of-samurai-ts-upd/static/css/main.a7c90dd8.css.map",
+    "main.2d09618e.js.map": "/way-of-samurai-ts-upd/static/js/main.2d09618e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c90dd8.css",
+    "static/js/main.2d09618e.js"
+  ]
+}
